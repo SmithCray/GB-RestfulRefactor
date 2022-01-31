@@ -74,8 +74,6 @@ Email:
 <br>
 cmsmith004@gmail.com
 
-<br>
-
 ## <span style="color:orange"> Copyright (c) [2021] </span> <span style="color:green"> [Cray Smith] </span>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
