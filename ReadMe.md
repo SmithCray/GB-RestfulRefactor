@@ -16,6 +16,12 @@ We are working to refactor Gooogle Books API and incorperate new performant tech
 
 We are currrently experiencing a bug within our starting structure that is causing issues with the deployed product. We are working to fix this issue and have not been able to determine the a solution yet. We are working around the clock to de-bug and determine the root of the issue.
 
+<br>
+
+**Update**
+
+Heroku deployment fixed, issue was cause by initial build pack that was intended for a static single page application. By removing current status buildpack and running a react/heroku default build as well as backend mongo atlas verification fixed.
+
 **Deployment:**
 
 <br>
