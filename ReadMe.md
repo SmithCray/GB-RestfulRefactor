@@ -22,6 +22,8 @@ We are currrently experiencing a bug within our starting structure that is causi
 
 Heroku deployment fixed, issue was cause by initial build pack that was intended for a static single page application. By removing current status buildpack and running a react/heroku default build as well as backend mongo atlas verification fixed.
 
+<br>
+
 **Deployment:**
 
 <br>
