@@ -1,8 +1,8 @@
-# Restful Refactor: Google Books
+# Restful Refactor: <span style="color:green">Google</span> <span style="color:blue">Books</span>
 
 ### **Description:**
 
-Google Books is a fully functioning [API](https://en.wikipedia.org/wiki/API) search engine built with a RESTful API using the [MERN stack](https://www.mongodb.com/mern-stack) and a [React](https://reactjs.org/) front end, [MongoDB](https://www.mongodb.com/) database, and [Node.js/Express.js](https://expressjs.com/) server and API. Which allows users to save book searches to the back end, sign-in and out, and query Books data all while being presenting with a high-quality responsive and enjoyable user experience via our friend _**"React"**_. Our users are presented with a menu containing the options Search for Books and Login/Signup, as well as a input field to search for books. Google Books presents several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site.
+[Google Books](https://github.com/SmithCray/RestfulRefactor) is a fully functioning [API](https://en.wikipedia.org/wiki/API) search engine built with a RESTful API using the [MERN stack](https://www.mongodb.com/mern-stack) and a [React](https://reactjs.org/) front end, [MongoDB](https://www.mongodb.com/) database, and [Node.js/Express.js](https://expressjs.com/) server and API. Which allows users to save book searches to the back end, sign-in and out, and query Books data all while being presenting with a high-quality responsive and enjoyable user experience via our friend _**"React"**_. Our users are presented with a menu containing the options Search for Books and Login/Signup, as well as a input field to search for books. Google Books presents several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site.
 
 <br>
 
@@ -12,13 +12,13 @@ We are working to refactor Gooogle Books API and incorperate new performant tech
 
 <br>
 
-**Initial Issues and Diclaimer:**
+<span style="color:orange">**Initial Issues and Diclaimer:**</span>
 
 We are currrently experiencing a bug within our starting structure that is causing issues with the deployed product. We are working to fix this issue and have not been able to determine the a solution yet. We are working around the clock to de-bug and determine the root of the issue.
 
 <br>
 
-**Update**
+<span style="color:green">**Update:**</span>
 
 Heroku deployment fixed, issue was cause by initial build pack that was intended for a static single page application. By removing current status buildpack and running a react/heroku default build as well as backend mongo atlas verification fixed.
 
@@ -46,11 +46,17 @@ Heroku deployment fixed, issue was cause by initial build pack that was intended
 
 ### **Web Preview:**
 
-![Restful Refactor: Google Books-PreviewA.](./client/src/assets/RestfulRefactorPre.png)
+![Restful Refactor: Google Books-PreviewB.](./client/src/assets/RestfulRefactorPreB.png)
 
 <br>
 
-![Restful Refactor: Google Books-PreviewB.](./client/src/assets/RestfulRefactorPreB.png)
+![Restful Refactor: Google Books-PreviewA.](./client/src/assets/googlebooksSaved.png)
+
+<br>
+
+### **Mongo Atlas:**
+
+![Restful Refactor: Google Books-PreviewB.](./client/src/assets/googlebooksAtlas.png)
 
 <br>
 
